@@ -1,0 +1,19 @@
+node_modules
+.env*
+.eve
+**/.eve/
+.vercel
+.workflow-data
+**/.workflow-data/
+.next
+.output
+**/.output/
+.nitro
+dist
+.DS_Store
+*.tsbuildinfo
+
+# Local durable agent memory (JSON on disk) — keep private, keep local
+data/memory/*.json
+!data/memory/.gitkeep
+

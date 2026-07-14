@@ -1,0 +1,19 @@
+{
+  "name": "@eve-host/shared",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./model": "./model.js",
+    "./memory/store": "./memory/store.js",
+    "./memory/tools": "./memory/tools.js",
+    "./personalities/brain": "./personalities/brain.js",
+    "./personalities/spark": "./personalities/spark.js",
+    "./personalities/mr-doof": "./personalities/mr-doof.js",
+    "./channel-eve": "./channel-eve.js"
+  },
+  "peerDependencies": {
+    "eve": "*",
+    "zod": "*"
+  }
+}
