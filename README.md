@@ -315,7 +315,9 @@ prompt, tool, or stream event involved so reviewers can reproduce the result.
 
 ## License
 
-No license file is included yet. Before publishing this repository as open
-source, add a license such as MIT, Apache-2.0, or another license appropriate for
-your project. Without a license, others do not automatically receive permission
-to use, modify, or redistribute the code.
+Relayroom is released under the [MIT License](LICENSE).
+
+You may use, modify, distribute, sublicense, and sell copies of the project,
+provided that the copyright and permission notices are included with the
+software. The project is provided without warranty; see the full text in
+[`LICENSE`](LICENSE).
