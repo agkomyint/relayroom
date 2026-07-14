@@ -1,6 +1,6 @@
-# Mr Doof — an asynchronous multi-agent host built with Eve
+# Relayroom — an asynchronous multi-agent workspace built with Eve
 
-Mr Doof is an experimental open-source multi-agent workspace built with
+Relayroom is an experimental open-source multi-agent workspace built with
 [Eve](https://eve.dev), Next.js, and React.
 
 Instead of opening several separate chats and copying context between them, you
@@ -319,4 +319,3 @@ No license file is included yet. Before publishing this repository as open
 source, add a license such as MIT, Apache-2.0, or another license appropriate for
 your project. Without a license, others do not automatically receive permission
 to use, modify, or redistribute the code.
-

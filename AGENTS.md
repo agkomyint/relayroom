@@ -1,4 +1,4 @@
-# Mr Doof · multi-agent host
+# Relayroom · multi-agent host
 
 Talk to **Mr Doof** first. He plans and delegates to **Brain** and **Spark**
 (often in parallel). All agents use **on-disk JSON memory** under `data/memory/`.

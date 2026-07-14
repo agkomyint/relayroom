@@ -20,7 +20,7 @@ const mono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mr Doof · Agent Team",
+  title: "Relayroom · Agent Workspace",
   description: "Mr Doof plans and delegates to Brain and Spark. Local on-disk memory.",
 };
 
